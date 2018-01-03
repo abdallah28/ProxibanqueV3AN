@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"model","l":"Client"},{"p":"model","l":"Compte"},{"p":"model","l":"CompteCourant"},{"p":"model","l":"CompteEpargne"},{"p":"dao","l":"DaoClient"},{"p":"servlet","l":"DisplayServlet"},{"p":"dao","l":"IDao"},{"p":"service","l":"ServiceProxiSI"},{"p":"test","l":"Test"},{"p":"servlet","l":"WriteServlet"}]
